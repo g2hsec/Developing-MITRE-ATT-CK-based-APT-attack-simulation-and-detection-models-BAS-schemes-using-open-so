@@ -1,0 +1,38 @@
+{
+    "version": "4.5",
+    "name": "Merged Wazuh Alerts Layer",
+    "description": "Layer merged from two Wazuh alert layers",
+    "domain": "enterprise-attack",
+    "techniques": [
+        {
+            "techniqueID": "T1027.001",
+            "color": "#0000ff"
+        },
+        {
+            "techniqueID": "T1083",
+            "color": "#800080"
+        },
+        {
+            "techniqueID": "T1006",
+            "color": "#800080"
+        }
+    ],
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#800080"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    },
+    "legendItems": [
+        {
+            "label": "Unique Techniques from A and B",
+            "color": "#0000ff"
+        },
+        {
+            "label": "Overlapping Techniques",
+            "color": "#800080"
+        }
+    ]
+}

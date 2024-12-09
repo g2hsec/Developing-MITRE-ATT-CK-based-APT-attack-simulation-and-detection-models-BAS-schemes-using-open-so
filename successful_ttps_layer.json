@@ -1,0 +1,67 @@
+{
+    "name": "Successful TTPs",
+    "version": "4.5",
+    "domain": "enterprise-attack",
+    "description": "Layer for successful TTPs from the recent operation.",
+    "techniques": [
+        {
+            "techniqueID": "T1027.001",
+            "color": "#ff0000",
+            "comment": "Successful TTP "
+        },
+        {
+            "techniqueID": "T1027.001",
+            "color": "#0000ff",
+            "comment": "Successful TTP "
+        },
+        {
+            "techniqueID": "T1027.001",
+            "color": "#ff0000",
+            "comment": "Successful TTP "
+        },
+        {
+            "techniqueID": "T1027.001",
+            "color": "#0000ff",
+            "comment": "Successful TTP "
+        },
+        {
+            "techniqueID": "T1027.001",
+            "color": "#ff0000",
+            "comment": "Successful TTP "
+        },
+        {
+            "techniqueID": "T1027.001",
+            "color": "#0000ff",
+            "comment": "Successful TTP "
+        },
+        {
+            "techniqueID": "T1027.001",
+            "color": "#ff0000",
+            "comment": "Successful TTP "
+        },
+        {
+            "techniqueID": "T1027.001",
+            "color": "#0000ff",
+            "comment": "Successful TTP "
+        }
+    ],
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff0000",
+            "0000ff"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    },
+    "legendItems": [
+        {
+            "label": "Successful TTP (Red)",
+            "color": "#ff0000"
+        },
+        {
+            "label": "Successful TTP (Blue)",
+            "color": "#0000ff"
+        }
+    ]
+}
