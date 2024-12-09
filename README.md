@@ -1,5 +1,5 @@
 # Developing a MITRE-ATT&CK based APT attack simulation and detection model (BAS scheme) using open source
-## 오픈 소스를 활용한 MITRE-ATT&CK 기반 APT 공격 시뮬레이션 및 탐지 모델(BAS 체계) 개발
+### 오픈 소스를 활용한 MITRE-ATT&CK 기반 APT 공격 시뮬레이션 및 탐지 모델(BAS 체계) 개발
 
 # 프로젝트 개요
 본 프로젝트에서는 퍼플팀 접근 방식을 기반으로 한 사이버 공격 시뮬레이션 및 탐지 플랫폼, 
