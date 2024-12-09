@@ -233,7 +233,7 @@ CWPP에서 블루팀은 레드팀이 수행한 공격에 대해 탐지되지 않
 속적으로 향상시키는 역할을 수행한다. 
 
 # 최종 
-![image](https://github.com/user-attachments/assets/89da7b49-7e91-461c-b6f1-bb012652cea0)
+![image](https://github.com/user-attachments/assets/89da7b49-7e91-461c-b6f1-bb012652cea0)<br>
 CWPP에서는 위 그림과 같이 레드팀 공격 시뮬레이션 결과로 생성된 성공 및 실패 로그를 
 기반으로, 블루팀의 탐지 규칙에 의해 탐지된 항목들과 상호 비교하여 심층적인 분석을 
 수행할 수 있다. 이 과정에서 동일한 공격 기술(technique)이 레드팀의 공격 로그와 
